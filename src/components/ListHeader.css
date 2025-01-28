@@ -1,0 +1,24 @@
+.list-header {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.875rem;
+  align-items: center;
+  font-weight: bold;
+
+  & .tasks-counter {
+    color: var(--blue);
+  }
+
+  & .completed-counter {
+    color: var(--purple);
+  }
+
+  & .counter {
+    background-color: var(--gray-400);
+    color: var(--gray-200);
+    border-radius: 16px;
+    padding: 2px 8px;
+    font-size: 0.75rem;
+    margin-left: 0.25rem;
+  }
+}
