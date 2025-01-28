@@ -31,3 +31,9 @@ npm install
 npm run dev
 ```
 4.  Acesse a aplicação em [http://localhost:5173](http://localhost:5173)
+
+### Protótipo no Figma
+
+O design deste projeto foi baseado no protótipo desenvolvido no Figma. Você pode acessá-lo no link abaixo:
+
+[Protótipo no Figma](https://www.figma.com/design/EBeQfbMWsdsdV13hZLBySL/ToDo-List-%E2%80%A2-Desafio-React-(Copy)?node-id=0-1&p=f&t=00uvsWwVgKw6TLkK-0)
